@@ -23,3 +23,6 @@ node_modules/
 
 # OS-specific files
 .DS_Store
+
+#Keystore props
+keystore.properties
