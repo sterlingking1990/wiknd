@@ -31,7 +31,7 @@ on:
             uses: r0adkll/upload-google-play@v1
             with:
               serviceAccountJson: service_account.json
-              packageName: nl.jovmit.lyrics
+              packageName: com.project.wikndapp
               releaseFiles: app/build/outputs/bundle/release/app_release.aab
               track: internal
               whatsNewDirectory: whatsNewDirectory/
