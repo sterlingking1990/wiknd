@@ -32,6 +32,6 @@ jobs:
         with:
           serviceAccountJson: service_account.json
           packageName: com.project.wikndapp
-          releaseFiles: app/build/outputs/bundle/release/app_release.aab
+          releaseFiles: app/build/release/app_release.aab
           track: internal
           whatsNewDirectory: whatsNewDirectory/
