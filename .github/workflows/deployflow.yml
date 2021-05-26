@@ -34,5 +34,5 @@ jobs:
           packageName: com.project.wikndapp
           releaseFiles: app/build/outputs/bundle/release/app-release.aab
           track: internal
-          release_status: 'draft'
+          releaseStatus: 'draft'
           whatsNewDirectory: whatsNewDirectory/
